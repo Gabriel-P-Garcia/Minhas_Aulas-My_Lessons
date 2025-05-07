@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Esse programa é para calcular a média de notas de um aluno
 public class mediaNotas {
 	public static void main(String[] args) {
 	Scanner leitor = new Scanner (System.in);
