@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Esse programa é para calcular o indice de massa corporal de uma pessoa e informar em qual classe de peso ela se encaixa
 public class imc {
 	public static void main (String[] args) {
 	Scanner leitor = new Scanner (System.in);
