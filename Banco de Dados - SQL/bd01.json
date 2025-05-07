@@ -1,0 +1,12 @@
+{
+    "nome": "João",
+    "idade": 20,
+    "email": "sherolainefaike@bol.com.br",
+    "endereco": [
+        {
+            "logradouro": "Rua das Antas",
+            "numero": 33,
+            "cep": "42080-008"
+        }
+    ]
+}
