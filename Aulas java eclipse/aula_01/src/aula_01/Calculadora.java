@@ -1,7 +1,7 @@
 package aula_01;
 
 import java.util.Scanner;
-
+//Esse programa é uma calculadora básica
 public class Calculadora {
 	public static void main (String[] args) {
 		// Declaração de variáveis
