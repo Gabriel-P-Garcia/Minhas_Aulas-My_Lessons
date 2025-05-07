@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Esse programa é para calcular o percentual de votos de uma eleição
 
 public class votosValidos {
 	public static void main(String[] args) {
