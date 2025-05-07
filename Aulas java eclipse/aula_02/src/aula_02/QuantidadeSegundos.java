@@ -1,7 +1,7 @@
 package aula_02;
 
 import java.util.Scanner;
-
+//Esse programa é para calcular a quantidade de segundos presentes em uma passagem de tempo específica
 public class QuantidadeSegundos {
 	public static void main(String[] args) {
 		Scanner leitor = new Scanner(System.in);
