@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Esse programa é para contar o número de azuleijos de uma piscina após dar as proporções da piscina de de um azuleijo
 
 public class azuleijosPiscina {
  public static void main(String[] args) {
