@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Esse programa é para calcular a velocidade média e o consumo de gasolina de um carro
 public class computadorDeBordo {
 	public static void main(String[] args) {
 	Scanner leitor = new Scanner(System.in);
